@@ -1,0 +1,6 @@
+framework module MNCAppsSDK {
+  umbrella header "MNCAppsSDK.h"
+
+  export *
+  module * { export * }
+}
